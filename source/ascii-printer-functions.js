@@ -1,4 +1,4 @@
-/*____________________________________ USEFOOL FUNCTIONS ____________________________________*/
+/*____________________________________ USEFOOL FUNCTIONS (really light) ____________________________________*/
 
 function getRandomIdFromArray(arrayName) {
   // Output
