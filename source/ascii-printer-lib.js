@@ -15,7 +15,7 @@ var asciis = [
     `,
     color: "LightSlateGray",
     height: 7,
-    author: "VK",
+    author: "Veronica Karlsson",
   },
   {
     type: "animal",
@@ -47,7 +47,7 @@ var asciis = [
     `,
     color: "DimGray",
     height: 7,
-    author: "jgs",
+    author: "Joan G. Stark",
   },
   {
     type: "animal",
@@ -63,7 +63,7 @@ _,..._|      )_-\ \_=.\
     `,
     color: "DarkGoldenrod",
     height: 7,
-    author: "jgs",
+    author: "Joan G. Stark",
   },
   {
     type: "animal",
@@ -286,7 +286,26 @@ o.       0000/ b  d \000
     `,
     color: "Peru",
     height: 13,
-    author: "jgs",
+    author: "Joan G. Stark",
+  },
+  {
+    type: "animal",
+    name: "marbles",
+    art: String.raw` 
+         __
+        /  \
+       / ..|\
+      (_\  |_)
+      /  \@' 
+     /     \
+_   /  '   |
+\\/  \  | _\
+ \   /_ || \\_
+  \____)|_) \_)
+    `,
+    color: "Brown",
+    height: 10,
+    author: "",
   },
   {
     type: "animal",
@@ -307,7 +326,7 @@ c /    \         |  |
     `,
     color: "DarkGoldenrod",
     height: 12,
-    author: "",
+    author: "hjw",
   },
   {
     type: "animal",
@@ -426,7 +445,7 @@ c /    \         |  |
     `,
     color: "RoyalBlue",
     height: 6,
-    author: "",
+    author: "Riitta Rasimus",
   },
   {
     type: "character",
@@ -508,7 +527,7 @@ __|_________\______/
     `,
     color: "Orange",
     height: 12,
-    author: "jgs",
+    author: "Joan G. Stark",
   },
   {
     type: "character",
@@ -553,7 +572,7 @@ __|_________\______/
     `,
     color: "SpringGreen",
     height: 13,
-    author: "jgs",
+    author: "Joan G. Stark",
   },
   {
     type: "character",
