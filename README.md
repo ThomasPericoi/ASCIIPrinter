@@ -81,6 +81,7 @@ OR
 ## What's inside ?
 
 - **Type:** Animal
+
   - anteater
   - armadillo
   - bat
@@ -124,4 +125,5 @@ OR
   - yosemiteSam
 
 **PS:** I didn't make those arts, I just found them. When I could, I put the author in the library.
+
 **PSS:** Everything comes with colors !

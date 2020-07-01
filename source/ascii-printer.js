@@ -1,3 +1,5 @@
+/*____________________________________ USEFOOL FUNCTIONS ____________________________________*/
+
 function getRandomIdFromArray(arrayName) {
   // Output
   return Math.floor(Math.random() * arrayName.length);
