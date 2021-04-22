@@ -1,4 +1,4 @@
-/*____________________________________ USEFOOL FUNCTIONS ____________________________________*/
+/*____________________________________ USEFOOL FUNCTIONS (really light) ____________________________________*/
 
 function getRandomIdFromArray(arrayName) {
   // Output
@@ -35,8 +35,6 @@ function printAsciiRandom(criteria = "all") {
   // Output
   printAsciiByName(randomAscii.name);
 }
-
-/*____________________________________ ASCIIS LIBRAIRY ____________________________________*/
 
 /*____________________________________ ASCIIS LIBRAIRY ____________________________________*/
 
@@ -529,6 +527,24 @@ W            W
   },
   {
     type: "character",
+    name: "einstein",
+    art: String.raw` 
+      -''--.
+      _'>   '\.-'/
+  _.'     _     '._
+.'   _.='   '=._   '.
+>_   / /_\ /_\ \   _<
+  / (  \o/\\o/  ) \
+  >._\ .-,_)-. /_.<
+      /__/ \__\ 
+        '---'
+    `,
+    color: "Silver",
+    height: 9,
+    author: "jgs",
+  },
+  {
+    type: "character",
     name: "flintstones",
     art: String.raw` 
   \/________________ 
@@ -796,5 +812,40 @@ f  o|  o|__     "'-.
     color: "Red",
     height: 13,
     author: "",
+  },
+  {
+    type: "logo",
+    name: "apple",
+    art: String.raw` 
+        .:'
+    __ :'__
+ .' __'-'__ '.
+:__________.-'
+:_________:
+ :_________'-;
+  '.__.-.__.'
+    `,
+    color: "Silver",
+    height: 7,
+    author: "jgs",
+  },
+  {
+    type: "item",
+    name: "floppyDisk",
+    art: String.raw` 
+ _________________
+| | ___________ |o|
+| | ___________ | |
+| | ___________ | |
+| | ___________ | |
+| |_____________| |
+|     _______     |
+|    |       |   ||
+|    |       |   V|
+|____|_______|____|
+    `,
+    color: "DarkSlateGrey",
+    height: 10,
+    author: "Robert Craggs",
   },
 ];

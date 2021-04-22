@@ -132,6 +132,12 @@ OR
   - tweetieBird
   - yosemiteSam
 
+- **Type:** Logo
+  - apple
+
+- **Type:** Item
+  - floppyDisk
+
 **PS:** I didn't make those arts, I just found them. When I could, I put the author in the library.
 
 **PSS:** Everything comes with colors !
