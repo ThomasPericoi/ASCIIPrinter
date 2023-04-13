@@ -27,7 +27,7 @@ function printAsciiByName(asciiName) {
   printAsciiById(selectedAscii);
 }
 
-function printAsciiRandom(criteria = "all") {
+function printRandomAscii(criteria = "all") {
   // Process
   var selectedAsciis = asciis.filter((ascii) => ascii.type === criteria); // Select the asciis matching the criteria
   selectedAsciis.length < 1 && (selectedAsciis = Object.values(asciis)); // If empty or nothing is matching, select them all

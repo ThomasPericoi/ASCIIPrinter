@@ -7,7 +7,7 @@
 
 # ASCII Printer
 
-Small tool that allows you to easily print ASCII art in your console.
+Small tool that allows you to easily print ASCII arts in your console.
 
 ## How does it work ?
 
@@ -36,6 +36,8 @@ Small tool that allows you to easily print ASCII art in your console.
 
 **Input**
 
+Useful if you want to create your own "random" list of arts for instance.
+
     printAsciiById(18);
 
 **Output**
@@ -61,11 +63,11 @@ Small tool that allows you to easily print ASCII art in your console.
 
 **Input**
 
-    printAsciiRandom();
+    printRandomAscii();
 
-OR
+OR by narrowing it down with a category.
 
-    printAsciiRandom("character");
+    printRandomAscii("character");
 
 **Output**
 
