@@ -568,6 +568,27 @@ c /    \         |  |
   },
   {
     type: "character",
+    name: "bigBird",
+    art: String.raw` 
+   . -- .
+  (      )
+ ( (/oo\) )
+  ( \`'/ )
+   ( \/ )
+  (      )
+ (        )
+(          )
+ (        )
+   ' -- '
+    =  =
+    =  =
+    `,
+    color: "Yellow",
+    height: 16,
+    author: "",
+  },
+  {
+    type: "character",
     name: "cheshireCat",
     art: String.raw` 
            .'\   /'.
@@ -601,6 +622,21 @@ W            W
     color: "Blue",
     height: 6,
     author: "Randy Ransom",
+  },
+  {
+    type: "character",
+    name: "devil",
+    art: String.raw` 
+  ,  ,  , , ,
+ <(__)> | | |
+ | \/ | \_|_/
+ \^  ^/   |
+ /\--/\  /|
+/  \/  \/ |
+    `,
+    color: "Red",
+    height: 6,
+    author: "Joan G. Stark",
   },
   {
     type: "character",
@@ -935,6 +971,36 @@ f  o|  o|__     "'-.
   },
   {
     type: "item",
+    name: "boat",
+    art: String.raw` 
+       _    _
+    __|_|__|_|__
+  _|____________|__
+ |o o o o o o o o /
+~'~'~'~'~'~'~'~'~'~'~
+    `,
+    color: "Aqua",
+    height: 5,
+    author: "Hayley Jane Wakenshaw",
+  },
+  {
+    type: "item",
+    name: "camera",
+    art: String.raw` 
+ .-------------------.
+/--"--.------.------/|
+|Kodak|__Ll__| [==] ||
+|     | .--. | """" ||
+|     |( () )|      ||
+|     | '--' |      |/
+'-----'------'------'
+    `,
+    color: "Gray",
+    height: 10,
+    author: "Joan G. Stark",
+  },
+  {
+    type: "item",
     name: "crown",
     art: String.raw` 
        o 
@@ -967,6 +1033,23 @@ o\*''.\|/.''*/o
     color: "DarkSlateGrey",
     height: 10,
     author: "Robert Craggs",
+  },
+  {
+    type: "item",
+    name: "plane",
+    art: String.raw` 
+            __/\__
+           '==/\=='
+ ____________/__\____________
+/____________________________\
+  __||__||__/.--.\__||__||__
+ /__|___|___( >< )___|___|__\
+           _/.--.\_
+          (/------\)
+    `,
+    color: "Red",
+    height: 8,
+    author: "Joan G. Stark",
   },
   {
     type: "item",

@@ -65,7 +65,7 @@ Useful if you want to create your own "random" list of arts for instance.
 
     printRandomAscii();
 
-OR by narrowing it down with a category.
+Or by narrowing it down with a category.
 
     printRandomAscii("character");
 
@@ -89,7 +89,7 @@ OR by narrowing it down with a category.
 
 ## What's inside?
 
-- **Type:** Animal
+- **Type:** Animals (animal)
 
   - anteater
   - armadillo
@@ -123,10 +123,11 @@ OR by narrowing it down with a category.
   - wasp
   - whale
 
-- **Type:** Character
+- **Type:** Characters (character)
   - bender
   - cheshireCat
   - cookieMonster
+  - devil
   - flintstones
   - garfield
   - homer
@@ -143,9 +144,12 @@ OR by narrowing it down with a category.
   - tweetieBird
   - yosemiteSam
 
-- **Type:** Item
+- **Type:** Items (item)
+  - boat
+  - camera
   - crown
   - floppyDisk
+  - plane
   - tombstone
 
 ## Credits
@@ -167,5 +171,4 @@ I didn't make the arts. At best, I just tweaked them. Here are the names of the 
   - Veronica Karlsson
   
 **PS:** Again, I didn't make those arts, I just found them. When I could, I put the talented author in the library.
-
 **PSS:** Everything comes with colors!
