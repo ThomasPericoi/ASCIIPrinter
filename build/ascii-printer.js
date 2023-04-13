@@ -89,6 +89,25 @@ var asciis = [
   },
   {
     type: "animal",
+    name: "bear",
+    art: String.raw` 
+ .--.              .--.
+: (\ ". _......_ ." /) :
+ '.    '        '    .'
+  /'   _        _   '\
+ /     0}      {0     \
+|       /      \       |
+|     /'        '\     |
+ \   | .  .==.  . |   /
+  '._ \.' \__/ './ _.'
+  /  '''._-''-_.'''  \
+    `,
+    color: "Brown",
+    height: 10,
+    author: "Joan G. Stark",
+  },
+  {
+    type: "animal",
     name: "beaver",
     art: String.raw` 
             ___
@@ -123,6 +142,18 @@ c{{i.}}=oo-^
     color: "DarkSlateGrey",
     height: 12,
     author: "",
+  },
+  {
+    type: "animal",
+    name: "caterpillar",
+    art: String.raw` 
+\_/-.--.--.--.--.--.
+(")__)__)__)__)__)__)
+ ^ "" "" "" "" "" ""
+    `,
+    color: "Green",
+    height: 3,
+    author: "Joan G. Stark",
   },
   {
     type: "animal",
@@ -306,6 +337,20 @@ __\ _\ \___/ /_ /__
   },
   {
     type: "animal",
+    name: "hedgehog",
+    art: String.raw` 
+  .|||||||||.
+ |||||||||||||
+|||||||||||' .\
+'||||||||||_,__o
+    ''  '' 
+    `,
+    color: "Tan",
+    height: 5,
+    author: "",
+  },
+  {
+    type: "animal",
     name: "lion",
     art: String.raw` 
             o00000000o
@@ -364,7 +409,28 @@ c /    \         |  |
     `,
     color: "DarkGoldenrod",
     height: 12,
-    author: "hjw",
+    author: "Hayley Jane Wakenshaw",
+  },
+  {
+    type: "animal",
+    name: "monkey",
+    art: String.raw`
+      .="=.
+    _/.-.-.\_     _
+   ( ( o o ) )    ))
+    |/  "  \|    //
+     \'---'/    //
+     /'"""'\\  ((
+    / /_,_\ \\  \\
+    \_\\_'__/ \  ))
+     /'  /'~\  |//
+    /   /    \  /
+,--',--'\/\    /
+ '-- "--'  '--'
+    `,
+    color: "Brown",
+    height: 12,
+    author: "Joan G. Stark",
   },
   {
     type: "animal",
@@ -440,6 +506,20 @@ c /    \         |  |
   },
   {
     type: "animal",
+    name: "snail",
+    art: String.raw` 
+    .----.   @   @
+   / .-"-.'.  \v/
+   | | '\ \ \_/ )
+ ,-\ '-.' /.'  /
+'---'----'----'
+    `,
+    color: "SeaGreen",
+    height: 5,
+    author: "Hayley Jane Wakenshaw",
+  },
+  {
+    type: "animal",
     name: "teckel",
     art: String.raw` 
                         __
@@ -453,7 +533,7 @@ c /    \         |  |
     `,
     color: "Chocolate",
     height: 8,
-    author: "hjw",
+    author: "Hayley Jane Wakenshaw",
   },
   {
     type: "animal",
@@ -469,6 +549,20 @@ c /    \         |  |
     color: "LimeGreen",
     height: 6,
     author: "",
+  },
+  {
+    type: "animal",
+    name: "wasp",
+    art: String.raw` 
+    _  _
+   | )/ )
+\\ |//,' __
+(")(_)-"()))=-
+   (\\
+    `,
+    color: "Yellow",
+    height: 5,
+    author: "Stef00",
   },
   {
     type: "animal",
@@ -509,6 +603,27 @@ c /    \         |  |
     color: "Silver",
     height: 16,
     author: "Silver Saks",
+  },
+  {
+    type: "character",
+    name: "cheshireCat",
+    art: String.raw` 
+           .'\   /'.
+         .'.-.'-'.-.'.
+    ..._:   .-. .-.   :_...
+  .'    '-.(o ) (o ).-'    '.
+ :  _    _ _'~(_)~'_ _    _  :
+:  /:   ' .-=_   _=-. '   ;\  :
+:   :|-.._  '     '  _..-|:   :
+ :   ':| |':-:-.-:-:'| |:'   :
+  '.   ''.| | | | | | |.'   .'
+    '.    '-:_| | |_:-'   .'
+      '-._    ''''    _.-'
+          ''-------''
+    `,
+    color: "Violet",
+    height: 6,
+    author: "Randy Ransom",
   },
   {
     type: "character",
@@ -658,6 +773,32 @@ __|_________\______/
   },
   {
     type: "character",
+    name: "monaLisa",
+    art: String.raw` 
+          ____  
+        o8%8888,    
+      o88%8888888.  
+     8'-    -:8888b   
+    8'         8888  
+   d8.-=. ,==-.:888b  
+   >8 '~' :'~' d8888   
+   88         ,88888   
+   88b. '-~  ':88888  
+   888b ~==~ .:88888 
+   88888o--:':::8888      
+   '88888| :::' 8888b  
+   8888^^'       8888b  
+  d888           ,%888b.   
+ d88%            %%%8--'-.  
+/88:.__ ,       _%-' ---  -  
+    '''::===..-'   =  --.
+    `,
+    color: "Sienna",
+    height: 17,
+    author: "",
+  },
+  {
+    type: "character",
     name: "pinkPanther",
     art: String.raw` 
  .--.             .--.
@@ -712,6 +853,23 @@ __|_________\______/
     color: "Red",
     height: 10,
     author: "B.D.S.`\"Don\"McConnell",
+  },
+  {
+    type: "character",
+    name: "sherlockHolmes",
+    art: String.raw`
+   ,_       
+ ,'  '\,_   
+ |_,-'_)    
+ /##c '\  ( 
+' |'  -{.  )
+  /\__-' \[]
+ /'-_'\     
+ '     \   
+    `,
+    color: "MediumSeaGreen",
+    height: 8,
+    author: "Harry Mason",
   },
   {
     type: "character",
@@ -847,5 +1005,19 @@ f  o|  o|__     "'-.
     color: "DarkSlateGrey",
     height: 10,
     author: "Robert Craggs",
+  },
+  {
+    type: "item",
+    name: "tombstone",
+    art: String.raw` 
+      ,-=-.
+     /  +  \
+     | ~~~ |
+     |R.I.P|
+\vV,,|_____|,,Vv/
+    `,
+    color: "Gray",
+    height: 5,
+    author: "Hayley Jane Wakenshaw",
   },
 ];

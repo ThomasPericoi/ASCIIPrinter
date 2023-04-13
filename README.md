@@ -94,8 +94,10 @@ OR by narrowing it down with a category.
   - anteater
   - armadillo
   - bat
+  - bear
   - beaver
   - cat
+  - caterpillar
   - crab
   - deer
   - dog
@@ -105,29 +107,36 @@ OR by narrowing it down with a category.
   - fox
   - frog
   - goldfish
+  - hedgehog
   - hippo
   - lion
   - marbles
   - marmot
+  - monkey
   - mouse
   - parrot
   - pig
   - pinguin
+  - snail
   - teckel
   - turtle
+  - wasp
   - whale
 
 - **Type:** Character
   - bender
+  - cheshireCat
   - cookieMonster
   - flintstones
   - garfield
   - homer
   - kermit
   - maryPoppins
+  - monaLisa
   - pinkPanther
   - r2d2
   - santaClaus
+  - sherlockHolmes
   - sonic
   - spaceInvader
   - squidward
@@ -139,13 +148,15 @@ OR by narrowing it down with a category.
 
 - **Type:** Item
   - floppyDisk
+  - tombstone
 
 ## Credits
 
 I didn't make the arts. At best, I just tweaked them. Here are the names of the authors (when I could find them):
   - B.D.S. "Don"McConnell
   - Hamilton Furtado
-  - hjw
+  - Harry Mason (hjm)
+  - Hayley Jane Wakenshaw (hjw)
   - Joan G. Stark (jgs)
   - LGB
   - Randy Ransom
@@ -154,6 +165,7 @@ I didn't make the arts. At best, I just tweaked them. Here are the names of the 
   - Seal do Mar
   - Silver Saks
   - snd
+  - Stef00
   - Veronica Karlsson
   
 **PS:** Again, I didn't make those arts, I just found them. When I could, I put the talented author in the library.
