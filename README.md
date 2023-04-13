@@ -7,9 +7,9 @@
 
 # ASCII Printer
 
-Small tool that allows you to easily print ASCII arts in your console.
+Small script that allows you to easily print colorful ASCII arts in your Javascript console.
 
-## How does it work ?
+## How does it work?
 
 ### By Name
 
@@ -59,7 +59,7 @@ Useful if you want to create your own "random" list of arts for instance.
                        \ \ '.)
                         '-'-'
 
-### By Random
+### Randomly
 
 **Input**
 
@@ -87,7 +87,7 @@ OR by narrowing it down with a category.
              |     |
              '.___.'
 
-## What's inside ?
+## What's inside?
 
 - **Type:** Animal
 
@@ -143,10 +143,8 @@ OR by narrowing it down with a category.
   - tweetieBird
   - yosemiteSam
 
-- **Type:** Logo
-  - apple
-
 - **Type:** Item
+  - crown
   - floppyDisk
   - tombstone
 
@@ -170,4 +168,4 @@ I didn't make the arts. At best, I just tweaked them. Here are the names of the 
   
 **PS:** Again, I didn't make those arts, I just found them. When I could, I put the talented author in the library.
 
-**PSS:** Everything comes with colors !
+**PSS:** Everything comes with colors!

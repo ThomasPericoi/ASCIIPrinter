@@ -972,19 +972,19 @@ f  o|  o|__     "'-.
     author: "",
   },
   {
-    type: "logo",
-    name: "apple",
+    type: "item",
+    name: "crown",
     art: String.raw` 
-        .:'
-    __ :'__
- .' __'-'__ '.
-:__________.-'
-:_________:
- :_________'-;
-  '.__.-.__.'
+       o 
+    o^/|\^o
+ o_^|\/*\/|^_o
+o\*''.\|/.''*/o
+ \\\\\\|//////
+  {><><@><><}
+  '"""""""""'
     `,
-    color: "Silver",
-    height: 7,
+    color: "Gold",
+    height: 10,
     author: "Joan G. Stark",
   },
   {
