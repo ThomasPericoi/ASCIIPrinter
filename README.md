@@ -99,10 +99,10 @@ OR
   - dog
   - duck
   - elephant
-  - fish
   - flamingo
   - fox
   - frog
+  - goldfish
   - hippo
   - lion
   - marbles
@@ -138,6 +138,22 @@ OR
 - **Type:** Item
   - floppyDisk
 
-**PS:** I didn't make those arts, I just found them. When I could, I put the author in the library.
+## Credits
+
+I didn't make the arts. At best, I just tweaked them. Here are the names of the authors (when I could find them):
+  - B.D.S. "Don"McConnell
+  - Hamilton Furtado
+  - hjw
+  - Joan G. Stark (jgs)
+  - LGB
+  - Randy Ransom
+  - Riitta Rasimus
+  - Robert Craggs
+  - Seal do Mar
+  - Silver Saks
+  - snd
+  - Veronica Karlsson
+  
+**PS:** Again, I didn't make those arts, I just found them. When I could, I put the talented author in the library.
 
 **PSS:** Everything comes with colors !

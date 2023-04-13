@@ -220,21 +220,6 @@ c{{i.}}=oo-^
   },
   {
     type: "animal",
-    name: "fish",
-    art: String.raw` 
-      /'·.¸
-     /¸...¸':·
- ¸.·'  ¸   '·.¸.·°)
-: © ):´;      ¸  {
- °·.¸¸'·  ¸.·´\'·¸)
-      \\´´\¸.·´
-    `,
-    color: "MediumTurquoise",
-    height: 6,
-    author: "",
-  },
-  {
-    type: "animal",
     name: "flamingo",
     art: String.raw` 
          __
@@ -285,6 +270,21 @@ __\ _\ \___/ /_ /__
   /|  /|\ /|\  |\
     `,
     color: "SpringGreen",
+    height: 6,
+    author: "",
+  },
+  {
+    type: "animal",
+    name: "goldfish",
+    art: String.raw` 
+      /'·.¸
+     /¸...¸':·
+ ¸.·'  ¸   '·.¸.·°)
+: © ):´;      ¸  {
+ °·.¸¸'·  ¸.·´\'·¸)
+      \\´´\¸.·´
+    `,
+    color: "Gold",
     height: 6,
     author: "",
   },
@@ -451,7 +451,7 @@ c /    \         |  |
 (( (              (( (
 '' '               ''-'
     `,
-    color: "DarkGoldenrod",
+    color: "Chocolate",
     height: 8,
     author: "hjw",
   },
@@ -541,7 +541,7 @@ W            W
     `,
     color: "Silver",
     height: 9,
-    author: "jgs",
+    author: "Joan G. Stark",
   },
   {
     type: "character",
@@ -711,7 +711,7 @@ __|_________\______/
     `,
     color: "Red",
     height: 10,
-    author: 'B.D.S."Don"McConnell',
+    author: "B.D.S.`\"Don\"McConnell",
   },
   {
     type: "character",
@@ -827,7 +827,7 @@ f  o|  o|__     "'-.
     `,
     color: "Silver",
     height: 7,
-    author: "jgs",
+    author: "Joan G. Stark",
   },
   {
     type: "item",
