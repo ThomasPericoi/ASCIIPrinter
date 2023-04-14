@@ -971,6 +971,25 @@ f  o|  o|__     "'-.
   },
   {
     type: "item",
+    name: "alarm",
+    art: String.raw` 
+     .-.-.
+((  (__I__)  ))
+  .'_....._'.
+ / / .12 . \ \
+| | '  |  ' | |
+| | 9  /  3 | |
+ \ \ '.6.' / /
+  '.'-...-'.'
+   /'-- --'\
+  '"""""""""'
+    `,
+    color: "Chocolate",
+    height: 10,
+    author: "Joan G. Stark",
+  },
+  {
+    type: "item",
     name: "boat",
     art: String.raw` 
        _    _
@@ -1050,6 +1069,23 @@ o\*''.\|/.''*/o
     color: "Red",
     height: 8,
     author: "Joan G. Stark",
+  },
+  {
+    type: "item",
+    name: "television",
+    art: String.raw` 
+ ______________
+|,----------.  |\
+||           |=| |
+||          || | |
+||       . _o| | | __
+|'-----------' |/ /~/
+~~~~~~~~~~~~~~~  /o/
+                 ~~
+    `,
+    color: "CornSilk",
+    height: 8,
+    author: "Ojoshiro",
   },
   {
     type: "item",

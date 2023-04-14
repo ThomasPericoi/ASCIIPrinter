@@ -145,11 +145,13 @@ Or by narrowing it down with a category.
   - yosemiteSam
 
 - **Type:** Items (item)
+  - alarm
   - boat
   - camera
   - crown
   - floppyDisk
   - plane
+  - television
   - tombstone
 
 ## Credits
@@ -160,6 +162,7 @@ I didn't make the arts. At best, I just tweaked them. Here are the names of the 
   - Harry Mason (hjm)
   - Hayley Jane Wakenshaw (hjw)
   - Joan G. Stark (jgs)
+  - Ojoshiro
   - LGB
   - Randy Ransom
   - Riitta Rasimus
@@ -171,4 +174,5 @@ I didn't make the arts. At best, I just tweaked them. Here are the names of the 
   - Veronica Karlsson
   
 **PS:** Again, I didn't make those arts, I just found them. When I could, I put the talented author in the library.
+
 **PSS:** Everything comes with colors!
